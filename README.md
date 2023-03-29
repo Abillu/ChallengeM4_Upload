@@ -1,5 +1,5 @@
 # Risk_Return Analysis
-This is a Pandas quantitative qnalysis aaimed at evaluating four new investment options for inclusion in client's investment portfolio. In order to determine a fund with the most investment potential the following key risk-management metrics were considered : the daily returns, standard deviations, Sharpe ratios, and betas. This analysis was performed on historical data of four portfolios and the broader stock market represented by the S&P 500 covering the period 1 October 2014 to 11 September 2020.
+This is a Pandas quantitative analysis aimed at evaluating four new investment options for inclusion in client's investment portfolio. In order to determine a fund with the most investment potential the following key risk-management metrics were considered : the daily returns, standard deviations, Sharpe ratios, and betas. This analysis was performed on historical data of four portfolios and the broader stock market represented by the S&P 500 covering the period 1 October 2014 to 11 September 2020.
 
 ## Methodology and Approach
 -Performance analysis: to determine if any of the portfolios outperform the broader stock market by derterming the daily rate of returns for the various portfolios.
